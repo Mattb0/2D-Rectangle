@@ -1,6 +1,6 @@
 # 2D Rectangle Class in C++
 
-Design and Implement a C++ program that implements the following:
+C++ program that performs the the following:
 
 • 2D Rectangle Class with floating point coordinates
 
